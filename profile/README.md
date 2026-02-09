@@ -79,4 +79,4 @@
 ## 🖼 실행 화면
 | 차단 안내 페이지 (Extension) | 통합 모니터링 대시보드 |
 | :---: | :---: |
-| <img src="./images/extension.png" height="200" /> | <img src="./images/dashboard.png" height="200" /> |
+| <img src="./images/extension.png" height="600" /> | <img src="./images/dashboard.png" height="600" /> |
